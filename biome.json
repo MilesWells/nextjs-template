@@ -9,6 +9,7 @@
 			"eslint.config.mjs",
 			"next.config.ts",
 			"package.json",
+			"postcss.config.cjs",
 			"tsconfig.json"
 		]
 	},
